@@ -16,6 +16,4 @@ CyberFlow è una web app dinamica per la gestione della collaborazione del team,
 - **CSS3**: Stili per la pagina web, inclusa la funzionalità di modalità scura.
 - **JavaScript**: Funzionalità dinamiche, inclusi la gestione degli eventi, l'aggiunta/rimozione di eventi e la gestione delle interazioni con l'utente.
 
-## Struttura del Progetto
 
-/cyberflow-project ├── index.html # Struttura principale del progetto ├── style.css # Stili della pagina web ├── script.js # File JavaScript per la gestione dei contenuti dinamici └── README.md # Documentazione del progetto
